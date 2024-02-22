@@ -15,6 +15,12 @@ In this project, Created a serverless web application using AWS Lambda, DynamoDB
 * Used S3 to store and host the web application's static files (HTML, CSS, and JavaScript).
 * Created a CloudFront(Amazon Service) distribution to serve the S3-hosted static files with low latency.
 
+## Tech Stack
+
+**Frontend:** Html, Css, Javascript
+
+**Cloud Service:** Amazon S3, AWS Lambda, Route53, AWS DynamoDB, and AWS CloudFront Distribution
+
 ### Lessons Learned:
 
 This project is a working serverless web application hosted on AWS.

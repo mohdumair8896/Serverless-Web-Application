@@ -19,6 +19,8 @@ In this project, Created a serverless web application using AWS Lambda, DynamoDB
 
 **Frontend:** Html, Css, Javascript
 
+**Languages:** Python
+
 **Cloud Service:** Amazon S3, AWS Lambda, Route53, AWS DynamoDB, and AWS CloudFront Distribution
 
 ### Lessons Learned:
